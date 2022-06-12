@@ -56,7 +56,7 @@ body .container .calculator {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 body .container .calculator .calculator-screen {
